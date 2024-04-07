@@ -1,0 +1,92 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 300px;
+    background-color: #89e1f7;
+    float: left;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.header {
+    float: center;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.profile-pic {
+    float: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    background-color: #ccc; /* Color de fondo de la imagen de perfil */
+    margin: 0 auto 10px;
+}
+
+.name {
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.job-title {
+    font-size: 18px;
+    color: #666; /* Color del título del trabajo */
+}
+
+.contact-info {
+    font-size: 13px;
+    text-align: center;
+    width: 270px;
+    height: 85px;
+    border: 5px ridge #646262; /* Borde alrededor de la sección de información de contacto */
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #8dd7da;
+    margin-bottom: 30px;
+}
+
+.contact-item {
+    margin-bottom: 3px;
+    border: 5px groove;
+}
+
+
+.about-me {
+    font-size: 13px;
+    text-align: center;
+    width: 270px;
+    height: 85px;
+    border: 5px ridge #646262; /* Borde alrededor de la sección de información de contacto */
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #8dd7da;
+    margin-bottom: 30px;
+}
+
+.habilidades {
+    font-size: 13px;
+    text-align: center;
+    width: 270px;
+    height: 85px;
+    border: 5px ridge #646262; /* Borde alrededor de la sección de información de contacto */
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #8dd7da;
+}
+
+.habilidades {
+    font-size: 13px;
+    text-align: center;
+    width: 270px;
+    height: 85px;
+    border: 5px ridge #646262; /* Borde alrededor de la sección de información de contacto */
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #8dd7da;
+}
