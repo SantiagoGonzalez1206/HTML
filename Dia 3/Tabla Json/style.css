@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+th {
+    background-color: rgb(196, 157, 122);
+}
+
+.friends {
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(196, 157, 122);
+}
+
+.titulo {
+    margin-left: 240px;
+}
+
