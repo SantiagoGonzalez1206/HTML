@@ -1,15 +1,20 @@
 form {
+    align-items: center;
     margin: 0 auto;
     width: 400px;
     padding: 1em;
     border: 1px solid #ccc;
     border-radius: 1em;
+    background-color: rgb(24, 15, 51);
   }
   
   ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    color: white;
+    text-wrap: 20px;
+    text-align: center;
   }
   
   form li + li {
@@ -26,8 +31,10 @@ form {
   textarea {
     font: 1em sans-serif;
     width: 300px;
-    box-sizing: border-box;
-    border: 1px solid #999;
+    height: 35px;
+    border: 2px solid #1b47d6;
+    background-color: rgb(24, 15, 51);
+    border-radius: 2%;
   }
   
   input:focus,
@@ -35,18 +42,6 @@ form {
     border-color: #000;
   }
   
-  textarea {
-    vertical-align: top;
-  
 
-    height: 5em;
-  }
   
-  .button {
-    padding-left: 90px;
-  }
-  
-  button {
-    margin-left: 0.5em;
-  }
   
