@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <form action="/my-handling-form-page" method="post">
+        <ul>
+          <li>
+            <label for="name">Nombre:</label>
+            <input type="text" id="name" name="user_name" placeholder="Nombre"/>
+          </li>
+          <li>
+            <label for="mail">Correo electrónico:</label>
+            <input type="email" id="mail" name="user_mail" placeholder="Correo"/>
+          </li>
+          <li>
+            <label for="msg">Mensaje:</label>
+            <textarea id="msg" name="user_message" placeholder="Mensaje"></textarea>
+          </li>
+          <li class="button">
+            <button type="submit">Envíe su mensaje</button>
+          </li>
+        </ul>
+      </form>
+      
+</body>
+</html>
