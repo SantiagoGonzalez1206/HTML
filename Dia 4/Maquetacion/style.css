@@ -11,7 +11,7 @@ img {
     border-radius: 1%;
     float: center;
     width: 900px;
-    height: 1200px;
+    height: 1052px;
 }
 
 .imagen1 {
@@ -29,6 +29,7 @@ img {
     float: right;
     margin-right: 35px;
     margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .imagen3 {
@@ -48,11 +49,112 @@ img {
     margin-top: 10px;
 }
 
+
 .imagen5 {
+    margin-right: 19px;
     border-radius: 2%;
-    width: 200px;
-    float: right;
-    margin-right: 235px;
+}
+
+.pag2 {
+    background-color: black;
+    border-radius: 1%;
+    float: center;
+    width: 900px;
+    height: 542px;
     margin-top: 20px;
-    background-color: aliceblue;
+}
+
+.image1 {
+    background-color: #131314;
+    border-radius: 2%;
+}
+
+.pag3 {
+    margin-top: 20px;
+    background-color: black;
+    border-radius: 1%;
+    float: center;
+    width: 900px;
+    height: 1067px;
+    padding-top: 20px;
+}
+
+.imag1 {
+    background-color: #131314;
+    width: 430px;
+    border-radius: 2%;
+    float: left;
+    margin-left: 15px;
+}
+
+.imag2 {
+    margin-top: 10px;
+    border-radius: 2%;
+    background-color: #000000;
+}
+
+.imag3 {
+    margin-top: 10px;
+    margin-right: 15px;
+    float: right;
+}
+
+.imag4 {
+    margin-top: 5px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+.imag5 {
+    margin-left: 10px;
+    margin-top: 5px;
+    float: left;
+}
+
+.imag6 {
+    float: right;   
+    margin-right: 15px;
+    margin-top: 5px;
+    
+}
+
+.pag4 {
+    margin-top: 20px;
+    background-color: black;
+    border-radius: 1%;
+    float: center;
+    width: 900px;
+    height: 1043px;
+    padding-top: 15px;
+}
+
+.img1 {
+
+    float: left;
+    background-color: rgb(0, 0, 0);
+    width: 870px;
+    height: 500px;
+    border-radius: 2%;
+    margin-left: 15px;
+}
+
+.img2 {
+    float: left;
+    background-color: rgb(0, 0, 0);
+    width: 400px;
+    height: 532px;
+    margin-left: 25px;
+}
+
+.img3 {
+    margin-top: 20px;
+    margin-right: 25px;
+    float: right;
+}
+
+.img4 {
+    margin-top: 17px;
+    margin-right: 25px;
+    float: right;
 }
